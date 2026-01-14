@@ -21,7 +21,7 @@ export function MobileMenu() {
     <div className="md:hidden ">
       <button
         onClick={toggleMenu}
-        className=" relative right-2 top-2 p-2 hover:bg-gray-700 rounded-lg transition-colors"
+        className=" relative right-2 top-1 p-2 hover:bg-gray-700 rounded-lg transition-colors"
         aria-label="Toggle menu"
       >
         {isOpen ? (
