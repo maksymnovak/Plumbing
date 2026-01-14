@@ -1,0 +1,1 @@
+export const MOCK_PHONE_NUMBER = "123-456-7890";
